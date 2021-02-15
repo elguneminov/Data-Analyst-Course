@@ -19,3 +19,8 @@
 * Engage with coding exercises that will prepare you for the job
 * Practice with real-world data
 * Solve a final capstone project
+
+### Who this course is for:
+*  You should take this course if you want to become a Data Analyst and Data Scientist
+*  This course is for you if you want a great career
+*  The course is also ideal for beginners, as it starts from the fundamentals and gradually builds up your skills
